@@ -1,0 +1,17 @@
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\bin\Debug\FCGE.exe.config
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\bin\Debug\FCGE.exe
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\bin\Debug\FCGE.pdb
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\obj\Debug\FCGE.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\obj\Debug\FCGE.Properties.Resources.resources
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\obj\Debug\FCGE.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\obj\Debug\FCGE.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\obj\Debug\FCGE.exe
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\obj\Debug\FCGE.pdb
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\obj\Debug\FCGE.formMenu.resources
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\obj\Debug\FCGE.formLogin.resources
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\obj\Debug\FCGE.frmAdicionarItem.resources
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\obj\Debug\FCGE.frmExibir.resources
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\obj\Debug\FCGE.frmNovoLogin.resources
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\obj\Debug\FCGE.frmRemoverItem.resources
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\obj\Debug\FCGE.frmMovFin.resources
+C:\Users\User\Downloads\Coisas da Faculdade\VisualStudio\FCGE\FCGE\obj\Debug\FCGE.frmHist.resources
